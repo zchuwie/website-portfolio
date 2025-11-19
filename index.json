@@ -1,0 +1,71 @@
+{
+    "experiences": [
+        {
+            "date": "Jul 2025 - present",
+            "title": "Creative Committee Member | University of Caloocan City",
+            "description": "I am responsible for designing and producing visual content for various university events and activities. This includes creating posters, banners, social media graphics, and other promotional materials to enhance the visibility and appeal of university programs. I collaborate with other committee members to brainstorm ideas and ensure that all designs align with the university's branding guidelines. Through this role, I have honed my skills in graphic design, teamwork, and project management."
+        },
+        {
+            "date": "Feb 2024 - Jan 2025",
+            "title": "Microsoft Student Ambassador | Microsoft",
+            "description": "As a Microsoft Student Ambassador, I served as a liaison between Microsoft and the student community through online platforms. My responsibilities included organizing and promoting Microsoft-related events, workshops, and hackathons to foster a culture of innovation and technology adoption among students. I also provided support and resources to help students learn about Microsoft technologies and tools. This experience allowed me to develop my leadership, communication, and event management skills while contributing to the growth of the tech community on campus."
+        },
+        {
+            "date": "Sept 2022 - March 2023",
+            "title": "Zuitt Web Development Bootcamp | Zuitt",
+            "description": "During my time at the Zuitt Web Development Bootcamp, I underwent training in front-end web development. The program covered a wide range of topics, including HTML, CSS, and JavaScript. I worked on several hands-on projects that allowed me to apply my knowledge and build practical skills in web development. The bootcamp also emphasized collaboration and problem-solving, preparing me for real-world scenarios in the tech industry. This experience significantly enhanced my technical abilities and fueled my passion for web development."
+        }
+    ],
+    "projects": [
+        {
+            "image": "https://placehold.co/450x200",
+            "title": "Yusisay",
+            "description": "An anonymous social-media like application built in Laravel with real-time posting and commenting features. Users can create accounts, post updates, and interact with others while maintaining their anonymity. The application utilizes Laravel's robust framework to ensure security and scalability.",
+            "link": "https://github.com",
+            "techStack": ["Laravel", "PHP", "MySQL", "Tailwind CSS"]
+        },
+        {
+            "image": "https://placehold.co/450x200",
+            "title": "Integrated Construction Supply Management System",
+            "description": "A comprehensive supply management system designed for construction companies to streamline their inventory and procurement processes. The system allows users to track supplies, manage orders, and generate reports. Built with a C# Winforms and a ORM using Entity Framework with its database for MySQL, it ensures efficient data handling and user-friendly interfaces to improve operational efficiency standalone.",
+            "link": "https://github.com",
+            "techStack": ["C#", "Entity Framework", "MySQL" ]
+        },
+        {
+            "image": "https://placehold.co/450x200",
+            "title": "ButiKa",
+            "description": "A standalone pharmacy management system that helps pharmacies manage their inventory, sales. The system includes features such as prescription management, and reporting. Developed using VB.NET Winforms and micro-ORM using Dapper with MySQL on its side, it provides a seamless user experience and efficient data management.",
+            "link": "https://github.com",
+            "techStack": ["VB.NET", "Dapper", "MySQL"]
+        },
+        {
+            "image": "https://placehold.co/450x200",
+            "title": "Nurtura",
+            "description": "An Iot-based project that focuses on monitoring and maintaining optimal conditions for plant growth. The system utilizes sensors to collect data on soil moisture, temperature, and light levels, which is then transmitted to a mobile application built with React Native for real-time monitoring. Users can view the data, receive alerts, and make informed decisions to ensure the health of their plants.",
+            "link": "https://github.com",
+            "techStack": ["React Native", "Arduino", "Firebase", "Express.js", "MySQL" ]
+        }
+    ],
+    "contacts": [
+         {
+            "icon": "https://img.icons8.com/material-outlined/24/ffffff/linkedin--v1.png",
+            "label": "LinkedIn",
+            "link": "https://linkedin.com/in/denzchristian"
+        },
+        {
+            "icon": "https://img.icons8.com/material-outlined/24/ffffff/instagram-new.png",
+            "label": "Instagram",
+            "link": "https://instagram.com/chrstndnz_"
+        },
+        {
+            "icon": "https://img.icons8.com/material-outlined/24/ffffff/github.png",
+            "label": "GitHub",
+            "link": "https://github.com/zchuwie"
+        },
+        {
+            "icon": "https://img.icons8.com/material-outlined/24/ffffff/new-post.png",
+            "label": "E-mail",
+            "link": "mailto:denz.sabalboro@gmail.com"
+        }
+    ]
+}
