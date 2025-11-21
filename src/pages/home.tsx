@@ -3,10 +3,8 @@ import ScrollReveal from "../helper/ScrollReveal"
 export default function Home() {
     const downloadResume = () => {
         const link = document.createElement('a');
-        link.href = '/public/Sabalboro_Resume.pdf';
+        link.href = '/Sabalboro_Resume.pdf';
         link.download = 'Sabalboro_Resume.pdf';
-        link.target = '_blank';
-        link.rel = 'noopener noreferrer';
         document.body.appendChild(link);
         link.click();
         document.body.removeChild(link);
