@@ -12,9 +12,9 @@ export default function Home() {
 
 
     return (
-            <div className="pt-24 sm:pt-28 md:pt-32 xl:pt-40"> 
-                <section className="p-4 sm:p-6 rounded-lg shadow-md h-auto">
-                    <div className="mx-auto max-w-7xl grid grid-cols-1 lg:grid-cols-2 gap-8 lg:gap-4 mt-4 md:mt-8 place-items-center px-4 sm:px-6">
+            <div className="pt-24 sm:pt-28 md:pt-32 xl:pt-40 overflow-x-hidden w-full"> 
+                <section className="p-4 sm:p-6 rounded-lg shadow-md h-auto overflow-x-hidden">
+                    <div className="mx-auto max-w-7xl grid grid-cols-1 lg:grid-cols-2 gap-8 lg:gap-4 mt-4 md:mt-8 place-items-center px-4 sm:px-6 overflow-x-hidden">
                         <ScrollReveal direction ="left" duration={1}>
                             <div className="flex justify-center items-center w-full">
                                 <img src="https://placehold.co/400x400" alt="image" className="w-full max-w-[250px] sm:max-w-[300px] md:max-w-[350px] lg:max-w-[400px] h-auto rounded-lg" />

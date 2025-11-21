@@ -9,15 +9,15 @@ import Experience from "./pages/experience"
 
 function App() {
   return(
-    <>
+    <div className="overflow-x-hidden w-full max-w-full">
       <Header />  
-        <div id="home"><Home /></div>
-        <div id="about"><About /></div>
-        <div id="experience"><Experience /></div>
-        <div id="projects"><Projects /></div>
-        <div id="contact"><Contact /></div>
+        <div id="home" className="overflow-x-hidden"><Home /></div>
+        <div id="about" className="overflow-x-hidden"><About /></div>
+        <div id="experience" className="overflow-x-hidden"><Experience /></div>
+        <div id="projects" className="overflow-x-hidden"><Projects /></div>
+        <div id="contact" className="overflow-x-hidden"><Contact /></div>
       <Footer />
-    </>
+    </div>
   )
 }
 

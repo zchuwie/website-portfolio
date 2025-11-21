@@ -5,7 +5,7 @@ export default function Contact() {
     const { contacts } = portfolio;
 
     return (
-        <div className="pt-24 sm:pt-28 md:pt-32 xl:pt-40">
+        <div className="pt-24 sm:pt-28 md:pt-32 xl:pt-40 overflow-y-hidden">
             <section className="p-4 sm:p-6 rounded-lg shadow-md">
                 <div className="mx-auto max-w-7xl px-4 sm:px-6">
                     <ScrollReveal direction="down" duration={0.6}>
